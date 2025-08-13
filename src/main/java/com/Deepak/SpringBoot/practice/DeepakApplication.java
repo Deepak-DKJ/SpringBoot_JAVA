@@ -16,6 +16,6 @@ public class DeepakApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        System.out.println(db.getData());
+//        System.out.println(db.getData());
     }
 }
